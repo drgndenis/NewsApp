@@ -13,6 +13,7 @@
 		E2A39F5F2A5D959B00A21514 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2A39F5D2A5D959B00A21514 /* Main.storyboard */; };
 		E2A39F612A5D959C00A21514 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2A39F602A5D959C00A21514 /* Assets.xcassets */; };
 		E2A39F642A5D959C00A21514 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2A39F622A5D959C00A21514 /* LaunchScreen.storyboard */; };
+		E2A39F6C2A5D96F500A21514 /* NewsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2A39F6B2A5D96F500A21514 /* NewsCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E2A39F602A5D959C00A21514 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E2A39F632A5D959C00A21514 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E2A39F652A5D959C00A21514 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2A39F6B2A5D96F500A21514 /* NewsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E2A39F572A5D959B00A21514 /* AppDelegate.swift */,
 				E2A39F592A5D959B00A21514 /* SceneDelegate.swift */,
 				E2A39F5B2A5D959B00A21514 /* ViewController.swift */,
+				E2A39F6B2A5D96F500A21514 /* NewsCell.swift */,
 				E2A39F5D2A5D959B00A21514 /* Main.storyboard */,
 				E2A39F602A5D959C00A21514 /* Assets.xcassets */,
 				E2A39F622A5D959C00A21514 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				E2A39F5C2A5D959B00A21514 /* ViewController.swift in Sources */,
 				E2A39F582A5D959B00A21514 /* AppDelegate.swift in Sources */,
+				E2A39F6C2A5D96F500A21514 /* NewsCell.swift in Sources */,
 				E2A39F5A2A5D959B00A21514 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
